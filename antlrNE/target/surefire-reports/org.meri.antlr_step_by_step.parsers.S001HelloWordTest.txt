@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.meri.antlr_step_by_step.parsers.S001HelloWordTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.253 sec
